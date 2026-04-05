@@ -1,0 +1,3 @@
+int = número 1 = 10
+int = número 2 = 15
+int total = número 1 + número 2;
