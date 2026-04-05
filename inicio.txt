@@ -1,3 +1,11 @@
 int = número 1 = 10
 int = número 2 = 15
 int total = número 1 + número 2;
+
+int = número 1 = 10
+int = número 2 = 15
+int total = número 1 + número 2;
+
+int totalresta = número 1 - número 2;
+int totalmulti = número 1 * número 2;
+int toaldiv = número 1 / número 2;
